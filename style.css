@@ -1,0 +1,18 @@
+h1,
+p {
+  font-family: Lato;
+}
+.containerBox {
+  width: 80%;
+  margin: 10px auto;
+  background-color: antiquewhite;
+  height: 800px;
+  top: 10px;
+  position: absolute;
+}
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin: 50px auto;
+}
