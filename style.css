@@ -3,11 +3,9 @@ p {
   font-family: Lato;
 }
 .containerBox {
-  width: 80%;
-  margin: 10px auto;
+  width: 100vw;
   background-color: antiquewhite;
-  height: 800px;
-  top: 10px;
+  height: 100vh;
   position: absolute;
 }
 .container {
